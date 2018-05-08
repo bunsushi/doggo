@@ -1,0 +1,15 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Comfortaa', cursive;
+}
+
+.well {
+    background-color: #5ea493;
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+}
